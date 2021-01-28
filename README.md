@@ -8,7 +8,7 @@
 
 ##Contacts
 
-[![GITHUB]("https://img.shields.io/badge/Test-FFFFFF?style=flat-square&logo=Github&logoColor=white&link=https://github.com/OtterBK/")]
+[![GITHUB]("https://img.shields.io/badge/Test-FFFFFF?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/OtterBK")](https://github.com/OtterBK)
 
 ## Github Stats  
 <table><tr><td valign="center" width="50%">
