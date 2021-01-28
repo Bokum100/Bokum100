@@ -8,9 +8,8 @@
 
 ## Contacts
 
-<img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-[![GITHUB]("https://img.shields.io/badge/Test-FFFFFF?style=flat-square&logo=Python&logoColor=white&link=https://github.com/OtterBK")](https://github.com/OtterBK)
+[![GITHUB]("https://img.shields.io/badge/-Github-FFFFFF?style=flat-square&logo=Python&logoColor=white&link=https://github.com/OtterBK")](https://github.com/OtterBK)
 
 ## Github Stats  
 <table><tr><td valign="center" width="50%">
@@ -22,6 +21,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtterBK&hide_border=true&langs_count=10" align="center" style="width: 100%" />
 
 </td></tr></table>  
+
+<!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=OtterBK)](https://solved.ac/kinetic27)-->
 
 
 <br/>  
