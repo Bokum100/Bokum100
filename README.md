@@ -8,8 +8,8 @@
 
 ## Contacts
 
+[![GITHUB](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&link=https://github.com/OtterBK/)](https://github.com/OtterBK)&nbsp;&nbsp;&nbsp;[![DISCORD](http://img.shields.io/badge/-Discord-gray?style=for-the-badge&logo=discord&link=https://github.com/OtterBK/)](https://github.com/OtterBK)
 
-[![GITHUB]("https://img.shields.io/badge/GitHub-test-FFFFFF?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/OtterBK")](https://github.com/OtterBK)
 
 ## Github Stats  
 <table><tr><td valign="center" width="50%">
