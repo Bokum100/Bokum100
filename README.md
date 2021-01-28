@@ -11,7 +11,8 @@
 
 ##  :telephone_receiver:Contacts
 
-[![GITHUB](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&link=https://github.com/OtterBK/)](https://github.com/OtterBK)&nbsp;&nbsp;&nbsp;[![DISCORD](http://img.shields.io/badge/-Discord-gray?style=for-the-badge&logo=discord&link=https://discord.com/channels/@me/804321101995835392)](https://discord.com/channels/@me/804321101995835392)
+[![GITHUB](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&link=https://github.com/OtterBK/)](https://github.com/OtterBK)&nbsp;&nbsp;&nbsp;
+[![DISCORD](http://img.shields.io/badge/-Discord-gray?style=for-the-badge&logo=discord&link=https://discord.com)] - Bokum#1916
 
 
 ## Github Stats  
