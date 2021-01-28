@@ -7,6 +7,9 @@
 
 <!--#### :raised_hand: 안녕하세요. <br>컴퓨터 공학과에 재학중인 초보 개발자입니다.<br>여러 사람들에게 :package:편리성과 :yum:재미를 제공할 수 있는 개발 연습을 하고있습니다! :exclamation:-->
 
+# Main Stack
+![JAVA](http://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)]
+
 #### :raised_hand: Hello <br>I am a :beginner:newbie developer majoring in computer engineering.<br>I am practicing development that can provide :package:convenience and :yum:fun to many people! :exclamation:
 
 ###  :iphone: Contacts :calling:
