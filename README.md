@@ -28,7 +28,7 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 
 <br>
-I'm challenging myself to learn various trends and I welcome feedback because I lack a lot.
+:pushpin: I'm challenging myself to learn various trends and I welcome feedback because I lack a lot.:simple_smile:
 <br>
 <div align=center>
 
