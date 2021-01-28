@@ -12,7 +12,7 @@
 </div>
 <br>
 
-# Main Stack
+## Main Stack
 ![JAVA](http://img.shields.io/badge/-Java%20-blue?style=for-m-badge&logo=java)
 
 <br>
