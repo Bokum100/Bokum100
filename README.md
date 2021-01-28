@@ -5,13 +5,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=4DA8D5&fontColor=F3EC78&height=130&section=header&text=%20OtterBK%20&animation=scaleIn&fontSize=80&fontAlign=50&fontAlignY=50)
 
-#### :raised_hand: 안녕하세요. <br>컴퓨터 공학과에 재학중인 초보 개발자입니다.<br>여러 사람들에게 :package:편리성과 :yum:재미를 제공할 수 있는 개발 연습을 하고있습니다! :exclamation:
+<!--#### :raised_hand: 안녕하세요. <br>컴퓨터 공학과에 재학중인 초보 개발자입니다.<br>여러 사람들에게 :package:편리성과 :yum:재미를 제공할 수 있는 개발 연습을 하고있습니다! :exclamation:-->
 
 #### :raised_hand: Hello <br>I am a newbie developer majoring in computer engineering.<br>I am practicing development that can provide :package:convenience and :yum:fun to many people! :exclamation:
 
 ##  :telephone_receiver:Contacts
 
-[![GITHUB](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&link=https://github.com/OtterBK/)](https://github.com/OtterBK)&nbsp;&nbsp;&nbsp;[![DISCORD](http://img.shields.io/badge/-Discord-gray?style=for-the-badge&logo=discord&link=https://github.com/OtterBK/)](https://github.com/OtterBK)
+[![GITHUB](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&link=https://github.com/OtterBK/)](https://github.com/OtterBK)&nbsp;&nbsp;&nbsp;[![DISCORD](http://img.shields.io/badge/-Discord-gray?style=for-the-badge&logo=discord&link=https://discord.com/channels/@me/804321101995835392)](https://discord.com/channels/@me/804321101995835392)
 
 
 ## Github Stats  
