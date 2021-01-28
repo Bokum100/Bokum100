@@ -21,6 +21,8 @@
 
 </td></tr></table>  
 
+![GitHub followers](https://img.shields.io/github/followers/OtterBK?style=social)
+
 <br/>  
 
 </div>
