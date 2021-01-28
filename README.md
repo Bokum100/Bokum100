@@ -8,6 +8,8 @@
 
 ## Contacts
 
+<img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 [![GITHUB]("https://img.shields.io/badge/Test-FFFFFF?style=flat-square&logo=Python&logoColor=white&link=https://github.com/OtterBK")](https://github.com/OtterBK)
 
 ## Github Stats  
@@ -21,7 +23,6 @@
 
 </td></tr></table>  
 
-![GitHub followers](https://img.shields.io/github/followers/OtterBK?style=social)
 
 <br/>  
 
@@ -31,6 +32,6 @@
 
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBokum100&count_bg=%23070707&title_bg=%2344B4EF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBokum100&count_bg=%23070707&title_bg=%2344B4EF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)![GitHub followers](https://img.shields.io/github/followers/OtterBK?style=social)
 
 </div>
