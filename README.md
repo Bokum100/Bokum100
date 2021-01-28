@@ -13,7 +13,7 @@
 <br>
 
 # Main Stack
-![JAVA](http://img.shields.io/badge/-Java%20-blue?style=for-the-badge&logo=java)
+![JAVA](http://img.shields.io/badge/-Java%20-blue?style=for-m-badge&logo=java)
 
 <br>
 <div align=center>
@@ -25,7 +25,7 @@
 
 </td><td valign="center" width="30%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtterBK&hide_border=true&langs_count=10" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtterBK&hide_border=true&&theme=react&langs_count=10" align="center" style="width: 100%" />
 
 </td></tr></table>  
 <!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=OtterBK)](https://solved.ac/kinetic27)-->
