@@ -39,8 +39,7 @@
 [![GITHUB](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&link=https://github.com/OtterBK/)](https://github.com/OtterBK)&nbsp;&nbsp;&nbsp;
 [![DISCORD](http://img.shields.io/badge/-Discord-gray?style=for-the-badge&logo=discord&link=https://discord.gg/DBByNeRP)](https://discord.gg/DBByNeRP)
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBokum100&count_bg=%23070707&title_bg=%2344B4EF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;&nbsp;&nbsp;![GitHub followers](https://img.shields.io/github/followers/OtterBK?style=social)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBokum100&count_bg=%23070707&title_bg=%2344B4EF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;&nbsp;&nbsp;![GitHub followers](https://img.shields.io/github/followers/OtterBK?style=social)<br>
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=4DA8D5&fontColor=FBFAFA&height=130&section=footer&text=%20%20&animation=scaleIn&fontSize=80&fontAlign=50&fontAlignY=50)
 
 </div>
