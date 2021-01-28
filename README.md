@@ -8,12 +8,14 @@
 
 </td><td valign="center" width="30%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtterBK&hide_border=true&layout=compact" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtterBK&hide_border=true&layout=compact&theme=react" align="center" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
 
 <div align=center>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBokum100&count_bg=%23070707&title_bg=%2344B4EF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
