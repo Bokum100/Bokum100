@@ -3,7 +3,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=4DA8D5&fontColor=BF795E&height=130&section=header&text=%20OtterBK%20&animation=scaleIn&fontSize=80&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=4DA8D5&fontColor=F3EC78&height=130&section=header&text=%20OtterBK%20&animation=scaleIn&fontSize=80&fontAlign=50&fontAlignY=50)
 
 
 ## Contacts
