@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=4DA8D5&fontColor=FBFAFA&height=180&section=header&text=%20OtterBK%20&animation=scaleIn&fontSize=80&fontAlign=50&fontAlignY=50)
 
-</div>
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=4DA8D5&fontColor=FBFAFA&height=180&section=header&text=%20OtterBK%20&animation=scaleIn&fontSize=80&fontAlign=50&fontAlignY=50)
 
 ## Github Stats  
 <table><tr><td valign="center" width="50%">
@@ -14,6 +15,10 @@
 </td></tr></table>  
 
 <br/>  
+
+</div>
+
+
 
 <div align=center>
   
