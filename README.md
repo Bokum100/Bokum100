@@ -13,7 +13,7 @@
 
 </td><td valign="center" width="30%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtterBK&hide_border=true&layout=compact&theme=react" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtterBK&hide_border=true&langs_count=10" align="center" style="width: 100%" />
 
 </td></tr></table>  
 
