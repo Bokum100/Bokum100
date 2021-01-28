@@ -3,13 +3,13 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=4DA8D5&fontColor=FBFAFA&height=180&section=header&text=%20OtterBK%20&animation=scaleIn&fontSize=80&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=4DA8D5&fontColor=FBFAFA&height=130&section=header&text=%20OtterBK%20&animation=scaleIn&fontSize=80&fontAlign=50&fontAlignY=50)
 
 
 ## Contacts
 
 
-[![GITHUB]("https://img.shields.io/badge/-Github-FFFFFF?style=flat-square&logo=Python&logoColor=white&link=https://github.com/OtterBK")](https://github.com/OtterBK)
+[![GITHUB]("https://img.shields.io/badge/GitHub-test-FFFFFF?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/OtterBK")](https://github.com/OtterBK)
 
 ## Github Stats  
 <table><tr><td valign="center" width="50%">
@@ -35,4 +35,8 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBokum100&count_bg=%23070707&title_bg=%2344B4EF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/OtterBK?style=social)
 
+![footer](https://capsule-render.vercel.app/api?type=slice&color=4DA8D5&fontColor=FBFAFA&height=130&section=footer&text=%20%20&animation=scaleIn&fontSize=80&fontAlign=50&fontAlignY=50)
+
 </div>
+
+
