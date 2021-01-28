@@ -10,13 +10,15 @@
 #### :raised_hand: Hello <br>I am a :beginner:newbie developer majoring in computer engineering.<br>I am practicing development that can provide :package:convenience and :yum:fun to many people! :exclamation:
 
 </div>
+<br>
 
 # Main Stack
 ![JAVA](http://img.shields.io/badge/-Java%20-blue?style=for-the-badge&logo=java)
 
 <br><br><br>
 <div align=center>
-###  :iphone: Contacts :calling:
+  
+### :iphone: Contacts :calling:
   
 [![GITHUB](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&link=https://github.com/OtterBK/)](https://github.com/OtterBK)&nbsp;&nbsp;&nbsp;
 [![DISCORD](http://img.shields.io/badge/-Discord-gray?style=for-the-badge&logo=discord&link=https://discord.gg/DBByNeRP)](https://discord.gg/DBByNeRP)
