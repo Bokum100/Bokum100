@@ -6,15 +6,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=4DA8D5&fontColor=F3EC78&height=130&section=header&text=%20OtterBK%20&animation=scaleIn&fontSize=80&fontAlign=50&fontAlignY=50)
 
-<!--#### :raised_hand: 안녕하세요. <br>컴퓨터 공학과에 재학중인 초보 개발자입니다.<br>여러 사람들에게 :package:편리성과 :yum:재미를 제공할 수 있는 개발 연습을 하고있습니다! :exclamation:-->
+<!--#### :raised_hand: 안녕하세요. <br>컴퓨터 공학과를 졸업하여 네트워크 보안 분야에서 일하고 있는 주니어 개발자입니다.<br>여러 사람들에게 :package:편리성과 :yum:재미를 제공할 수 있도록 여러 분야에서 프로젝트를 진행 중입니다! :exclamation:-->
 
-#### :raised_hand: Hello <br>I am a :beginner:newbie developer majoring in computer engineering.<br>I am practicing development that can provide :package:convenience and :yum:fun to many people! :exclamation:
+#### :raised_hand: Hello <br>I am a :beginner:junior developergraduated from computer engineering and works in network security.<br>I am practicing development that can provide :package:convenience and :yum:fun to many people! :exclamation:
 
 </div>
 <br>
 
 ### :computer: Languages and tools
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://openclipart.org/download/272343/1486640684.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://openclipart.org/download/272343/1486640684.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
