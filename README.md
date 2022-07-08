@@ -8,7 +8,7 @@
 
 <!--#### :raised_hand: 안녕하세요. <br>컴퓨터 공학과를 졸업하여 네트워크 보안 분야에서 일하고 있는 주니어 개발자입니다.<br>여러 사람들에게 :package:편리성과 :yum:재미를 제공할 수 있도록 여러 분야에서 프로젝트를 진행 중입니다! :exclamation:-->
 
-#### :raised_hand: Hello <br>I am a :beginner:junior developergraduated from computer engineering and works in network security.<br>I am practicing development that can provide :package:convenience and :yum:fun to many people! :exclamation:
+#### :raised_hand: Hello <br>I am a :beginner:junior developer graduated from computer engineering and works in network security.<br>I am practicing development that can provide :package:convenience and :yum:fun to many people! :exclamation:
 
 </div>
 <br>
