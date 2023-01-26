@@ -35,17 +35,8 @@
 <div align=center>
 
 ### :large_blue_diamond: Github Stats :large_orange_diamond:
-<table><tr><td valign="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OtterBK&count_private=true&show_icons=true&theme=react&hide_border=true" align="center" style="width: 100%" />
-
-</td><td valign="center" width="30%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtterBK&hide_border=true&&theme=react&langs_count=10" align="center" style="width: 100%" />
-
-</td></tr></table>  
-<!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=OtterBK)](https://solved.ac/kinetic27)-->
-<br/>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtterBK&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtterBK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align=center>
